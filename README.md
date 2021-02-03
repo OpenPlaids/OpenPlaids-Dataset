@@ -1,5 +1,17 @@
 # OpenPlaids-Dataset
 
+## 数据集授权许可
+
+您提交的数据应符合以下要求
+
+1. 不存在DMCA风险，即该数据不能被DMCA投诉下架。
+2. 若作品非您所创作，但您确认其符合公众利益，可以按照[Public Domain Mark](https://creativecommons.org/choose/mark/)（公共领域标识）来发布，或该作品按照[CC0](https://creativecommons.org/choose/zero/)发布。
+3. 作品系您所创作。
+
+其中，第一条为必须满足，第二条和第三条满足且仅需满足其中一条。
+
+
+
 ## 数据集搜集计划
 
 我们需要的数据集具有这样的要求
